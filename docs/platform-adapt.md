@@ -16,7 +16,7 @@
   "skill_params": {},
   "meta": {"auth_token": "内部鉴权凭证", "timeout": 30}
 }
-
+## 平台标准入参 Response
 {
   "code": 0,
   "msg": "success",
